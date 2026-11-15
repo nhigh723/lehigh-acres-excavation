@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# PLACEHOLDER DOMAIN: replace nhigh723.github.io/lehigh-acres-excavation with the live domain on publish.
+Sitemap: https://nhigh723.github.io/lehigh-acres-excavation/sitemap.xml
